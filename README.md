@@ -1,2 +1,2 @@
-# CS350
-Introduction to Computer Systems
+# CS350 - Introduction to Computer Systems
+An introduction to the organization and architecture of computer systems, including the standard Von Neumann model and more recent architectural concepts. Among the topics covered are numeric data representation, assembly language organization, memory addressing, memory systems, both real and virtual, coding and compression, input/output structures treated as programmed, interrupt, and direct memory access, and functional organization of the CPU and the computer system.
